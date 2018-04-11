@@ -1,0 +1,8 @@
+/.vs
+/BLL/bin
+/BLL/obj
+/DAL/obj
+/DAL/bin
+/packages
+/WebStore/obj
+/WebStore/bin
